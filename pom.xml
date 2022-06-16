@@ -8,7 +8,7 @@
    <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+        <url>http://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
    </repository>
 </distributionManagement>
   
