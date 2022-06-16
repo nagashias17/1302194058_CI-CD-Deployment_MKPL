@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ContohProjectMaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.3.4</version>
+  <version>0.0.1</version>
   
   <distributionManagement>
    <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+        <url>https://maven.pkg.github.com/test-account/test-lib</url>
    </repository>
 </distributionManagement>
   
